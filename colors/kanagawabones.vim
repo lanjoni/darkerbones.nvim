@@ -134,10 +134,10 @@ if &background ==# 'dark'
     highlight NonText guifg=#58586A guibg=NONE guisp=NONE gui=NONE cterm=NONE
     highlight! link EndOfBuffer NonText
     highlight! link Whitespace NonText
-    highlight NormalFloat guifg=NONE guibg=#31313F guisp=NONE gui=NONE cterm=NONE
+    highlight NormalFloat guifg=NONE guibg=#16161D guisp=NONE gui=NONE cterm=NONE
     highlight Number guifg=#DDD8BB guibg=NONE guisp=NONE gui=italic cterm=italic
     highlight! link Boolean Number
-    highlight Pmenu guifg=NONE guibg=#31313F guisp=NONE gui=NONE cterm=NONE
+    highlight Pmenu guifg=NONE guibg=#16161D guisp=NONE gui=NONE cterm=NONE
     highlight PmenuSbar guifg=NONE guibg=#5D5D6F guisp=NONE gui=NONE cterm=NONE
     highlight PmenuSel guifg=NONE guibg=#484759 guisp=NONE gui=NONE cterm=NONE
     highlight PmenuThumb guifg=NONE guibg=#858594 guisp=NONE gui=NONE cterm=NONE
