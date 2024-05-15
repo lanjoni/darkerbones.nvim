@@ -159,7 +159,7 @@ if &background ==# 'dark'
     highlight Statement guifg=#DDD8BB guibg=NONE guisp=NONE gui=bold cterm=bold
     highlight! link PreProc Statement
     highlight! link WhichKey Statement
-    highlight StatusLine guifg=#DDD8BB guibg=#363644 guisp=NONE gui=NONE cterm=NONE
+    highlight StatusLine guifg=#DDD8BB guibg=#16161D guisp=NONE gui=NONE cterm=NONE
     highlight! link TabLine StatusLine
     highlight StatusLineNC guifg=#E9E3C5 guibg=#16161D guisp=NONE gui=NONE cterm=NONE
     highlight! link TabLineFill StatusLineNC
