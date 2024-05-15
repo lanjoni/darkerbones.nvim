@@ -5,7 +5,7 @@ local hsluv = lush.hsluv
 local M = {}
 
 M.dark = util.palette_extend({
-	bg = hsluv "#1f1f28",
+	bg = hsluv "#0D1014",
 	fg = hsluv "#dcd7ba",
 	leaf = hsluv "#98bb6c",
 	water = hsluv "#7fb4ca",
