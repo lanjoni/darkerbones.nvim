@@ -161,7 +161,7 @@ if &background ==# 'dark'
     highlight! link WhichKey Statement
     highlight StatusLine guifg=#DDD8BB guibg=#363644 guisp=NONE gui=NONE cterm=NONE
     highlight! link TabLine StatusLine
-    highlight StatusLineNC guifg=#E9E3C5 guibg=#292934 guisp=NONE gui=NONE cterm=NONE
+    highlight StatusLineNC guifg=#E9E3C5 guibg=#16161D guisp=NONE gui=NONE cterm=NONE
     highlight! link TabLineFill StatusLineNC
     highlight TabLineSel guifg=NONE guibg=NONE guisp=NONE gui=bold cterm=bold
     highlight! link BufferCurrent TabLineSel
